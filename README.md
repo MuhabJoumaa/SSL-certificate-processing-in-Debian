@@ -187,3 +187,4 @@ Look now for `Subject:` and `Certificate chain` in the output.
 ---
 
 > ⚠️ Self-signed certificates are **not trusted by browsers** — suitable for local and development environments only. For a publicly trusted certificate, use Let's Encrypt / Certbot.
+
