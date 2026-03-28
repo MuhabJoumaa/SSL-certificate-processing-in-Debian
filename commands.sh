@@ -71,3 +71,4 @@ curl -k https://localhost
 
 # Inspect certificate details and chain
 openssl s_client -connect localhost:443 -showcerts </dev/null
+# test
